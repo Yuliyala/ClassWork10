@@ -14,6 +14,7 @@
 		B2FD6B0428EB4CBB0019C2C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2FD6B0328EB4CBB0019C2C4 /* Assets.xcassets */; };
 		B2FD6B0728EB4CBB0019C2C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2FD6B0528EB4CBB0019C2C4 /* LaunchScreen.storyboard */; };
 		B2FD6B0F28EB54980019C2C4 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2FD6B0E28EB54980019C2C4 /* SecondViewController.swift */; };
+		B2FD6B1128EB5CE00019C2C4 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2FD6B1028EB5CE00019C2C4 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B2FD6B0628EB4CBB0019C2C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B2FD6B0828EB4CBB0019C2C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B2FD6B0E28EB54980019C2C4 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		B2FD6B1028EB5CE00019C2C4 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				B2FD6B0528EB4CBB0019C2C4 /* LaunchScreen.storyboard */,
 				B2FD6B0828EB4CBB0019C2C4 /* Info.plist */,
 				B2FD6B0E28EB54980019C2C4 /* SecondViewController.swift */,
+				B2FD6B1028EB5CE00019C2C4 /* ThirdViewController.swift */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				B2FD6B0F28EB54980019C2C4 /* SecondViewController.swift in Sources */,
 				B2FD6AFF28EB4CB80019C2C4 /* ViewController.swift in Sources */,
+				B2FD6B1128EB5CE00019C2C4 /* ThirdViewController.swift in Sources */,
 				B2FD6AFB28EB4CB80019C2C4 /* AppDelegate.swift in Sources */,
 				B2FD6AFD28EB4CB80019C2C4 /* SceneDelegate.swift in Sources */,
 			);
